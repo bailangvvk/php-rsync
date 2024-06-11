@@ -15,7 +15,7 @@
 1. 将项目克隆到本地或直接下载到本地目录。
 2. 配置远程JSON数据的URL和日志文件路径。
 3. 定时运行`sync_client.php`脚本进行文件同步。
-4. 可以使用url [http://你的主机/sync_client.php?password=你的密码&host=你的主机](http://待备份的主机/sync_client.php?password=修改成你的密码&host=下发备份文件主机)
+4. 可以使用url http://待备份的主机/sync_client.php?password=修改成你的密码&host=下发备份文件主机
 
 ### 文件说明
 
